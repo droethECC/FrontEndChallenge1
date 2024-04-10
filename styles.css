@@ -102,7 +102,6 @@ span{
 .card{
     --br: .5rem;
     padding: 2rem;
-    margin:2rem;
     background: #fff;
     max-width: 450px;
     max-height: 400px;
